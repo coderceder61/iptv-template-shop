@@ -68,7 +68,7 @@ nav span{
 
 }
 #overlay{
-    z-index: 12;
+    /*z-index: 12;*/
     height: 100vh;
     position: absolute;
     top:0;
