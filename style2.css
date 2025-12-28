@@ -17,6 +17,7 @@ nav{
     justify-content: space-between;
     padding: 15px;
     /* opacity: 0; */
+    align-items: center;
     z-index: 1800;
 }
 .template > span{
