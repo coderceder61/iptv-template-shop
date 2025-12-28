@@ -20,6 +20,7 @@ nav{
     padding: 15px;
     /* opacity: 0; */
     z-index: 1800;
+    align-items: center;
 }
 #bars{
     display:none;
